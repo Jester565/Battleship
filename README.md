@@ -1,5 +1,7 @@
 # Battleship
 A multiplayer battleship game written entirely using the Java Standard Library. Battleship offers the ability for players to challenge eachother in a server lobby, communicate over text or voip, and rank up through playing.  This game of Battleship is different than the original, using radians and radii for ship coordinates.
+![Lobby](/rdme/lobby.png)
+![Game](/rdme/game.png)
 
 ## Installation
 #### Eclipse
